@@ -22,4 +22,36 @@ modules by path ./.ve/ 15.1 KiB
     ./.ve/EditorOverlay.css 2.25 KiB [built] [code generated]
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
-webpack 5.99.9 compiled successfully in 1432 ms
+webpack 5.99.9 compiled successfully in 1429 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.47 MiB
+  asset bundle.js 1.43 MiB [emitted] (name: main)
+  asset main.056fd07cffa9a5b6a1d7.hot-update.js 44.7 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.056fd07cffa9a5b6a1d7.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.47 MiB = bundle.js 1.43 MiB main.056fd07cffa9a5b6a1d7.hot-update.js 44.7 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 26.3 KiB
+  modules by path ./src/pages/*.js 9.84 KiB
+    ./src/pages/RecipeListPage.js 1.97 KiB [built] [code generated]
+    ./src/pages/RecipeDetailPage.js 2.87 KiB [built] [code generated]
+    ./src/pages/LoginPage.js 2.29 KiB [built] [code generated]
+    ./src/pages/RegisterPage.js 2.72 KiB [built] [code generated]
+  modules by path ./src/components/*.js 7.36 KiB
+    ./src/components/Header.js 1.78 KiB [built] [code generated]
+    ./src/components/Sidebar.js 1.59 KiB [built] [code generated]
+    ./src/components/RecipeModal.js 3.99 KiB [built] [code generated]
+  ./src/App.js 5.2 KiB [built] [code generated]
+  ./src/contexts/AuthContext.js 944 bytes [built] [code generated]
+  ./src/services/api.js 2.94 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 306 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.45 MiB
+  asset bundle.js 1.44 MiB [emitted] (name: main)
+  asset main.e5e1d487092abc8d99a1.hot-update.js 10.1 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.e5e1d487092abc8d99a1.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.45 MiB = bundle.js 1.44 MiB main.e5e1d487092abc8d99a1.hot-update.js 10.1 KiB
+cached modules 1.29 MiB [cached] 50 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 7.36 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 60 ms
